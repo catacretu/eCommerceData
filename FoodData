@@ -1,15 +1,18 @@
 [
   {
+    "id": 1,
     "title": "Cartofi",
     "price": "3 lei",
     "imageUrl": "https://fresh-fruits.ro/wp-content/uploads/2019/02/cartofi-albi-1.jpg" 
   },  
   {
+    "id": 2,
     "title": "Lapte",
     "price": "10 lei",
     "imageUrl": "https://d1lqpgkqcok0l.cloudfront.net/medias/sys_master/hf7/h0e/9101490454558.jpg" 
   },
   {
+   "id": 3,
    "title": "Ulei presat la rece",
     "price": "18 lei",
     "imageUrl": "https://sp-ao.shortpixel.ai/client/q_glossy,ret_img,w_600,h_900/https://bolloga.ro/wp-content/uploads/2020/09/ulei-2-scaled.jpg" 
