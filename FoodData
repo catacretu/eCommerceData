@@ -2,37 +2,37 @@
   {
     "id": 1,
     "title": "Cartofi",
-    "price": "3 lei",
+    "price": "3 lei/1kg",
     "imageUrl": "https://fresh-fruits.ro/wp-content/uploads/2019/02/cartofi-albi-1.jpg" 
   },  
   {
     "id": 2,
     "title": "Lapte",
-    "price": "10 lei",
+    "price": "10 lei/1l",
     "imageUrl": "https://d1lqpgkqcok0l.cloudfront.net/medias/sys_master/hf7/h0e/9101490454558.jpg" 
   },
   {
    "id": 3,
    "title": "Ulei presat la rece",
-    "price": "18 lei",
+    "price": "18 lei/1l",
     "imageUrl": "https://sp-ao.shortpixel.ai/client/q_glossy,ret_img,w_600,h_900/https://bolloga.ro/wp-content/uploads/2020/09/ulei-2-scaled.jpg" 
   }, 
   {
    "id": 4,
-   "title": "Ulei presat la rece",
-    "price": "18 lei",
-    "imageUrl": "https://sp-ao.shortpixel.ai/client/q_glossy,ret_img,w_600,h_900/https://bolloga.ro/wp-content/uploads/2020/09/ulei-2-scaled.jpg" 
+   "title": "Pastrav proaspat",
+    "price": "32 lei/kg",
+    "imageUrl": "https://nodverde.ro/wp-content/uploads/2019/04/Pastravi-Bologa-1.jpg" 
   },
   {
    "id": 5,
-   "title": "Ulei presat la rece",
-    "price": "18 lei",
-    "imageUrl": "https://sp-ao.shortpixel.ai/client/q_glossy,ret_img,w_600,h_900/https://bolloga.ro/wp-content/uploads/2020/09/ulei-2-scaled.jpg" 
+   "title": "Branza Maturata",
+    "price": "25 lei/300g",
+    "imageUrl": "https://cdn.shopify.com/s/files/1/0569/9279/2735/products/2.-Magazin-Branza-maturata-Tilsit_720x.jpg?v=1626799306" 
   },
   {
    "id": 6,
-   "title": "Ulei presat la rece",
-    "price": "18 lei",
-    "imageUrl": "https://sp-ao.shortpixel.ai/client/q_glossy,ret_img,w_600,h_900/https://bolloga.ro/wp-content/uploads/2020/09/ulei-2-scaled.jpg" 
+   "title": "Muschiulet de porc",
+    "price": "55 lei/kg",
+    "imageUrl": "https://savoriurbane.com/wp-content/uploads/2016/12/Muschiulet-de-porc-crud-si-afumat-pastrama.jpg" 
   }
 ]
