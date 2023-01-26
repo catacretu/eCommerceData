@@ -16,5 +16,23 @@
    "title": "Ulei presat la rece",
     "price": "18 lei",
     "imageUrl": "https://sp-ao.shortpixel.ai/client/q_glossy,ret_img,w_600,h_900/https://bolloga.ro/wp-content/uploads/2020/09/ulei-2-scaled.jpg" 
+  }, 
+  {
+   "id": 4,
+   "title": "Ulei presat la rece",
+    "price": "18 lei",
+    "imageUrl": "https://sp-ao.shortpixel.ai/client/q_glossy,ret_img,w_600,h_900/https://bolloga.ro/wp-content/uploads/2020/09/ulei-2-scaled.jpg" 
+  },
+  {
+   "id": 5,
+   "title": "Ulei presat la rece",
+    "price": "18 lei",
+    "imageUrl": "https://sp-ao.shortpixel.ai/client/q_glossy,ret_img,w_600,h_900/https://bolloga.ro/wp-content/uploads/2020/09/ulei-2-scaled.jpg" 
+  },
+  {
+   "id": 6,
+   "title": "Ulei presat la rece",
+    "price": "18 lei",
+    "imageUrl": "https://sp-ao.shortpixel.ai/client/q_glossy,ret_img,w_600,h_900/https://bolloga.ro/wp-content/uploads/2020/09/ulei-2-scaled.jpg" 
   }
 ]
