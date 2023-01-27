@@ -13,7 +13,7 @@
     "title": "Lapte",
     "price": "10 lei/1l",
     "imageUrl": "https://d1lqpgkqcok0l.cloudfront.net/medias/sys_master/hf7/h0e/9101490454558.jpg",
-    "description": "Produsele bio si-au castigat in timp o reputatie excelenta pentru calitatea lor superioara. Iar produsele din lapte de vaca, precum lapte de consum BIO Artesana, fara gluten, 3.7% grasime, 0.75L, nu fac exceptie. Profita de beneficiile unui produs lactat ecologic si prepara cele mai gustoase mancaruri si deserturi! Produs in fabrica proprie din Tecuci, sticlele de lapte de consum BIO Artesana, fara gluten, 3.7% grasime, 0.75L nu contin gluten, zahar, conservanti sau coloranti. Laptele are un gust bogat si pur, fiind atent selectionat de la fermele colaboratoare din Romania. Vacile producatoare de lapte au acces direct la pasune, asa ca nu se intervine asupra produsului cu pesticide sau alti compusi chimici daunatori. Laptele este esential pentru un organism sanatos, asa ca profita acum de oferta Auchan si comanda online lapte de consum BIO Artesana, fara gluten, 3.7% grasime, 0.75L pentru consumul zilnic. Punem la bataie livrare rapida direct la tine acasa si un pret atractiv. Informatii alergeni: lapte si produse din lapte (inclusiv lactoza)",
+    "description": "Produsele bio si-au castigat in timp o reputatie excelenta pentru calitatea lor superioara. Iar produsele din lapte de vaca, precum lapte de consum BIO Artesana, fara gluten, 3.7% grasime, 0.75L, nu fac exceptie. Profita de beneficiile unui produs lactat ecologic si prepara cele mai gustoase mancaruri si deserturi! Produs in fabrica proprie din Tecuci, sticlele de lapte de consum BIO Artesana, fara gluten, 3.7% grasime, 0.75L nu contin gluten, zahar, conservanti sau coloranti. Laptele are un gust bogat si pur, fiind atent selectionat de la fermele colaboratoare din Romania. Vacile producatoare de lapte au acces direct la pasune, asa ca nu se intervine asupra produsului cu pesticide sau alti compusi chimici daunatori. Laptele este esential pentru un organism sanatos, asa ca profita acum de oferta Auchan si comanda online lapte de consum BIO Artesana, fara gluten, 3.7% grasime, 0.75L pentru consumul zilnic. Punem la bataie livrare rapida direct la tine acasa si un pret atractiv. Informatii alergeni: lapte si produse din lapte (inclusiv lactoza).",
     "rating": 4.5
   },
   {
@@ -21,7 +21,7 @@
    "title": "Ulei presat la rece",
     "price": "18 lei/1l",
     "imageUrl": "https://sp-ao.shortpixel.ai/client/q_glossy,ret_img,w_600,h_900/https://bolloga.ro/wp-content/uploads/2020/09/ulei-2-scaled.jpg",
-    "description": "Cartofii sunt asociați în special cu alimentele prăjite",
+    "description": "Uleiul ecologic de la Bioforia este un produs superior, nerafinat,cu un gust pur de floarea soarelui, obținut exclusiv prin presarea la rece a semințelor cultivate în România. Se recomandă a fi folosit crud, în salate și alte mâncăruri proaspete.",
     "rating": 4.5
   }, 
   {
@@ -29,7 +29,7 @@
    "title": "Pastrav proaspat",
     "price": "32 lei/kg",
     "imageUrl": "https://nodverde.ro/wp-content/uploads/2019/04/Pastravi-Bologa-1.jpg",
-    "description": "Cartofii sunt asociați în special cu alimentele prăjite",
+    "description": "Păstrăv proaspăt (certificat ecologic), eviscerat, crescut în mediu natural și hrănit organic în bazine circulare (cu vârtej interior ce copiază modelul natural de înot în amonte) cu apă de munte provenită din râul Henț. Păstrăvii din satul Bologa (comuna Poieni, județul Cluj) sunt un aliment excelent pentru copii, oferind o sursă de proteină de înaltă calitate, acizi grași Omega 3, vitamina D, vitabina B12, acid folic și fosfor.",
     "rating": 5
   },
   {
@@ -37,14 +37,14 @@
    "title": "Branza Maturata",
     "price": "25 lei/300g",
     "imageUrl": "https://cdn.shopify.com/s/files/1/0569/9279/2735/products/2.-Magazin-Branza-maturata-Tilsit_720x.jpg?v=1626799306",
-    "description": "Cartofii sunt asociați în special cu alimentele prăjite",
+    "description": "Brânza maturată de munte, tipul de brânză artizanală care îl producem la Manufactura de Brânză este un produs tipic zonei alpine din Elveția, Germania și Austria. Cu secole în urmă, țăranii care ieșeau cu vacile pe pășunile alpine, nu aveau zilnic posibilitatea de a coborî laptele în văi. Astfel au început să producă brânză. Cu trecerea timpului evident că au reușit să perfecționeze procedeele de producție, pe care sunt fericiți să le dea mai departe și nouă. În atelierul nostru se produce doar un singur tip de brânză maturată, din convingerea că e mai bine să ai un produs de al cărui calitate ești convins, decât să ai multe mediocre. Totuși, prin adăugare de mirodenii sau vin, nuci și chilli, brânzele noastre se îmbogățesc în gust și aromă, oferind o varietate deosebită și pe alocuri unică. Maturarea lor are loc în pivnița atelierului construit doar cu acest scop – fabricarea și maturarea brânzei semitari. Pivnița necesită condiții optime de temperatură și umiditate pentru procesul de maturare. Pe lângă asta, este nevoie de intervenția zilnică a brânzarului, pentru întoarcerea și spălarea roților de brânză. Brânzarul are o relație specială cu brânzele din pivniță, fiind responsabil de sănătatea și dezvoltarea acestora!",
     "rating": 3.5
   },
   {
    "id": 6,
    "title": "Muschiulet de porc",
     "price": "55 lei/kg",
-    "imageUrl": "https://savoriurbane.com/wp-content/uploads/2016/12/Muschiulet-de-porc-crud-si-afumat-pastrama.jpg",
+    "imageUrl": "Dintre toate afumaturile, acest muschiulet de porc afumat este preferatul meu. Imi aminteste de muschiuletul Montana din anii ’80 (care se gasea rar si „pe sub mana”). Un mezel fin, crud-afumat, o pastrama preparata din muschiulet de porc (vorbim despre muschii paravertebrali subtiri, fusiformi). Muschiuletii de porc cantaresc cca. 500 g fiecare.",
     "description": "Cartofii sunt asociați în special cu alimentele prăjite",
     "rating": 5
   }
