@@ -39,5 +39,13 @@
     "imageUrl": "https://cdn.shopify.com/s/files/1/0569/9279/2735/products/2.-Magazin-Branza-maturata-Tilsit_720x.jpg?v=1626799306",
     "description": "Cartofii sunt asociați în special cu alimentele prăjite",
     "rating": 3.5
+  },
+  {
+   "id": 6,
+   "title": "Muschiulet de porc",
+    "price": "55 lei/kg",
+    "imageUrl": "https://savoriurbane.com/wp-content/uploads/2016/12/Muschiulet-de-porc-crud-si-afumat-pastrama.jpg",
+    "description": "Cartofii sunt asociați în special cu alimentele prăjite",
+    "rating": 5
   }
 ]
