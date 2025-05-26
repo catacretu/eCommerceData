@@ -53,5 +53,40 @@
     "imageUrl": "https://savoriurbane.com/wp-content/uploads/2016/12/Muschiulet-de-porc-crud-si-afumat-pastrama.jpg",
     "description": "Dintre toate afumaturile, acest muschiulet de porc afumat este preferatul meu. Imi aminteste de muschiuletul Montana din anii ’80 (care se gasea rar si „pe sub mana”). Un mezel fin, crud-afumat, o pastrama preparata din muschiulet de porc (vorbim despre muschii paravertebrali subtiri, fusiformi). Muschiuletii de porc cantaresc cca. 500 g fiecare.",
     "rating": 5
-  }
+  },
+  {
+    "id": 7,
+    "name": "Spaghete",
+    "category": "Others",
+    "price": "8 lei/500g",
+    "imageUrl": "https://vinoonline.ro/wp-content/uploads/2021/08/07_pack_fettucce-450x450.jpg",
+    "description": "Spaghetele sunt una dintre cele mai iconice forme de paste italiene, având o formă lungă, cilindrică și o grosime ideală pentru a susține sosuri medii sau ușor dense, cum este cel Amatriciana. Realizate în mod tradițional din grâu dur (semola di grano duro), spaghetele oferă o textură fermă („al dente”) atunci când sunt gătite corect, ceea ce contribuie la o senzație plăcută la mestecare și ajută la absorbția aromei din sos. În rețeta Amatriciana, spaghetele nu sunt doar un suport neutru pentru sos, ci participă activ la echilibrul gustului. Fiind bine amestecate cu sosul în tigaie, acestea se îmbracă uniform cu grăsimea topită din guanciale și cu sosul de roșii, absorbând subtil gustul intens al preparatului. Alegerea pastei este importantă: deși uneori se folosește bucatini (paste asemănătoare cu spaghetele, dar cu gaură în mijloc), mulți preferă spaghetele pentru o textură mai rafinată.",
+    "rating": 5
+  },
+  {
+    "id": 8,
+    "name": "Guanciale",
+    "category": "Meat",
+    "price": "12 lei/100g",
+    "imageUrl": "https://cucinaturea.ro/wp-content/uploads/2020/01/IMG_OCT-167-scaled.jpg",
+    "description": "https://cucinaturea.ro/wp-content/uploads/2020/01/IMG_OCT-167-scaled.jpg",
+    "rating": 5
+  },
+  {
+    "id": 8,
+    "name": "Pecorino Romano",
+    "category": "Dairy",
+    "price": "18 lei/100g",
+    "imageUrl": "https://gpd.ro/wp-content/uploads/2024/03/Pecorino_romano_dop.jpg",
+    "description": "Pecorino Romano este o brânză tare, sărată, făcută din lapte de oaie, cu origini vechi în Roma antică. Maturarea sa poate dura între 5 și 8 luni, timp în care dezvoltă o aromă intensă, ușor picantă și o textură granulată perfectă pentru răzuit. Este un ingredient esențial în multe preparate tradiționale italiene, inclusiv carbonara și Amatriciana, unde oferă un contrast sărat și umami față de dulceața roșiilor și grăsimea din carne. În Amatriciana, Pecorino se adaugă la final, răzuit fin, pentru a lega sosul și a oferi un strat suplimentar de savoare. El completează perfect gustul guancialei și echilibrează aciditatea roșiilor. Este important de folosit cu măsură, pentru că are un gust puternic, dar corect dozat, oferă autenticitate rețetei.",
+    "rating": 5
+  },
+  {
+    "id": 9,
+    "name": "Ardei iute uscat",
+    "category": "Others",
+    "price": "3 lei/10g",
+    "imageUrl": "https://paprica.ro/cdn/shop/products/hot-chili.jpg?v=1688391951",
+    "description": "Ardeiul iute uscat este un ingredient folosit cu grijă în rețeta Amatriciana pentru a adăuga un vârf de iuțeală subtilă. De obicei, se folosește un ardei întreg uscat, sfărâmat sau puțini fulgi de chili, adăugați în uleiul în care se prăjește guanciale. Căldura ardeiului nu trebuie să domine gustul, ci doar să îl accentueze, oferind o notă ușor picantă care sporește profunzimea preparatului. În varianta tradițională din Amatrice, această notă iute este considerată opțională, dar des întâlnită. Ardeiul iute nu este doar un adaos de gust, ci și de caracter. În combinație cu grăsimea suculentă din guanciale și cu dulceața naturală a roșiilor, creează un contrast care „trezește” papilele gustative. E important ca ardeiul să fie adăugat devreme în proces, pentru a-și elibera aroma în ulei fără să se ardă.",
+    "rating": 4
 ]
