@@ -60,7 +60,7 @@
     "category": "Others",
     "price": "8 lei/500g",
     "imageUrl": "https://vinoonline.ro/wp-content/uploads/2021/08/07_pack_fettucce-450x450.jpg",
-    "description": "Spaghetele sunt una dintre cele mai iconice forme de paste italiene, având o formă lungă, cilindrică și o grosime ideală pentru a susține sosuri medii sau ușor dense, cum este cel Amatriciana. Realizate în mod tradițional din grâu dur (semola di grano duro), spaghetele oferă o textură fermă („al dente”) atunci când sunt gătite corect, ceea ce contribuie la o senzație plăcută la mestecare și ajută la absorbția aromei din sos. În rețeta Amatriciana, spaghetele nu sunt doar un suport neutru pentru sos, ci participă activ la echilibrul gustului. Fiind bine amestecate cu sosul în tigaie, acestea se îmbracă uniform cu grăsimea topită din guanciale și cu sosul de roșii, absorbând subtil gustul intens al preparatului. Alegerea pastei este importantă: deși uneori se folosește bucatini (paste asemănătoare cu spaghetele, dar cu gaură în mijloc), mulți preferă spaghetele pentru o textură mai rafinată.",
+    "description": "Spaghetele sunt unul dintre cele mai recunoscute tipuri de paste italiene, cu o formă lungă, subțire și cilindrică. Originare din sudul Italiei, acestea sunt realizate în mod tradițional din grâu dur (semola di grano duro) și apă, fără ou. Textura lor elastică și capacitatea de a reține sosurile le transformă într-un suport ideal pentru preparate simple sau complexe, fie ele pe bază de roșii, ulei, unt sau brânzeturi. Comparativ cu alte paste lungi, cum ar fi bucatini — care au o formă similară, dar sunt goi în interior — spaghetele oferă o senzație mai rafinată la mestecare și o distribuție mai uniformă a sosului. Ele sunt ușor de porționat și gătit și reprezintă una dintre cele mai versatile forme de paste din lume, preferate atât în rețetele tradiționale italiene, cât și în bucătării internaționale moderne.",
     "rating": 5
   },
   {
@@ -69,24 +69,70 @@
     "category": "Meat",
     "price": "12 lei/100g",
     "imageUrl": "https://cucinaturea.ro/wp-content/uploads/2020/01/IMG_OCT-167-scaled.jpg",
-    "description": "https://cucinaturea.ro/wp-content/uploads/2020/01/IMG_OCT-167-scaled.jpg",
-    "rating": 5
-  },
-  {
-    "id": 8,
-    "name": "Pecorino Romano",
-    "category": "Dairy",
-    "price": "18 lei/100g",
-    "imageUrl": "https://gpd.ro/wp-content/uploads/2024/03/Pecorino_romano_dop.jpg",
-    "description": "Pecorino Romano este o brânză tare, sărată, făcută din lapte de oaie, cu origini vechi în Roma antică. Maturarea sa poate dura între 5 și 8 luni, timp în care dezvoltă o aromă intensă, ușor picantă și o textură granulată perfectă pentru răzuit. Este un ingredient esențial în multe preparate tradiționale italiene, inclusiv carbonara și Amatriciana, unde oferă un contrast sărat și umami față de dulceața roșiilor și grăsimea din carne. În Amatriciana, Pecorino se adaugă la final, răzuit fin, pentru a lega sosul și a oferi un strat suplimentar de savoare. El completează perfect gustul guancialei și echilibrează aciditatea roșiilor. Este important de folosit cu măsură, pentru că are un gust puternic, dar corect dozat, oferă autenticitate rețetei.",
+    "description": "Guanciale este o specialitate italiană obținută din obrazul porcului, condimentată și maturată pentru a dezvolta o aromă intensă, profundă și ușor dulceagă. Spre deosebire de pancetta (care provine din burtă), guanciale are un conținut mai ridicat de grăsime și o consistență mai delicată, ceea ce îi conferă un gust bogat și o textură care se topește în timpul gătirii. În gastronomie, guanciale este considerată o delicatesă, adesea folosită în preparate tradiționale italiene ca sursă de savoare autentică. Prin prăjire lentă, își eliberează grăsimea aromată, care devine o bază excelentă pentru sosuri. Datorită profilului său intens, chiar și cantități mici pot transforma un preparat simplu într-unul complex din punct de vedere gustativ.",
     "rating": 5
   },
   {
     "id": 9,
+    "name": "Pecorino Romano",
+    "category": "Dairy",
+    "price": "18 lei/100g",
+    "imageUrl": "https://gpd.ro/wp-content/uploads/2024/03/Pecorino_romano_dop.jpg",
+    "description": "Pecorino Romano este o brânză tare, sărată, obținută din lapte de oaie și maturată timp de cel puțin 5 luni. Originară din regiunea Lazio și din zonele învecinate, această brânză are o textură granulară, ușor sfărâmicioasă, și un gust intens, sărat, cu note ușor picante. Este adesea rasă peste paste sau integrată în sosuri pentru a aduce o profunzime de gust inconfundabilă. Fiind mai sărat și mai puternic decât parmezanul, Pecorino este adesea folosit în cantități mai mici, dar cu un efect aromatizant puternic. Datorită conținutului ridicat de grăsime din laptele de oaie, brânza are o capacitate excelentă de a se topi și de a se integra în preparate fierbinți. În plus, este adesea preferată de cei cu intoleranță la laptele de vacă.",
+    "rating": 5
+  },
+  {
+    "id": 10,
     "name": "Ardei iute uscat",
     "category": "Others",
     "price": "3 lei/10g",
     "imageUrl": "https://paprica.ro/cdn/shop/products/hot-chili.jpg?v=1688391951",
-    "description": "Ardeiul iute uscat este un ingredient folosit cu grijă în rețeta Amatriciana pentru a adăuga un vârf de iuțeală subtilă. De obicei, se folosește un ardei întreg uscat, sfărâmat sau puțini fulgi de chili, adăugați în uleiul în care se prăjește guanciale. Căldura ardeiului nu trebuie să domine gustul, ci doar să îl accentueze, oferind o notă ușor picantă care sporește profunzimea preparatului. În varianta tradițională din Amatrice, această notă iute este considerată opțională, dar des întâlnită. Ardeiul iute nu este doar un adaos de gust, ci și de caracter. În combinație cu grăsimea suculentă din guanciale și cu dulceața naturală a roșiilor, creează un contrast care „trezește” papilele gustative. E important ca ardeiul să fie adăugat devreme în proces, pentru a-și elibera aroma în ulei fără să se ardă.",
+    "description": "Ardeiul iute este o legumă mică, dar puternică, cunoscută pentru capacitatea sa de a adăuga foc și profunzime gustului în orice preparat. Există o varietate mare de tipuri, de la soiuri subtile, ușor picante, până la cele extrem de iuti. Compusul activ responsabil pentru iuțeală este capsaicina, care stimulează receptorii nervoși și creează senzația de "fierbinte" pe limbă. Pe lângă aportul său gustativ, ardeiul iute are și beneficii pentru sănătate: stimulează metabolismul, are proprietăți antioxidante și poate ajuta la deschiderea căilor respiratorii. În bucătărie, poate fi folosit proaspăt, uscat, măcinat sau sub formă de fulgi, în funcție de intensitatea dorită. Utilizat cu moderație, oferă un echilibru interesant între aromă și iuțeală, fără a domina restul preparatului.",
     "rating": 4
+  },
+  {
+    "id": 11,
+    "name": "Sare",
+    "category": "Others",
+    "price": "6 lei/50g",
+    "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSIplm9ocCvLa-uehPwnwc9WDwRwYttev56fQ&s",
+    "description": "Sarea este unul dintre cele mai vechi și esențiale condimente folosite de omenire, fiind utilizată nu doar pentru gust, ci și pentru conservarea alimentelor. Componența sa principală, clorura de sodiu (NaCl), ajută la evidențierea aromelor naturale ale ingredientelor și la echilibrarea gusturilor într-un preparat culinar. Este indispensabilă în aproape orice bucătărie a lumii și se regăsește în forme variate: fină, grunjoasă, de mare, iodate sau neiodate. Dincolo de gust, sarea are și un rol funcțional în gătit: ajută la extragerea apei din legume, la formarea crustei în preparatele prăjite sau coapte, și chiar influențează textura alimentelor, în special a cărnii, în procese precum marinarea. Utilizată cu măsură, contribuie la o experiență culinară completă. În exces, însă, poate domina gustul și deveni nesănătoasă, motiv pentru care echilibrul este cheia.",
+    "rating": 4
+  },
+  {
+  "id": 12,
+  "name": "Piper negru boabe",
+  "category": "Others",
+  "price": "20 lei/50g",
+  "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ8n-tUlhjhHk1qCjL_CVOGTP72nbihU3hplw&s",
+  "description": "Piperul negru este obținut din fructele necoapte ale plantei Piper nigrum, care sunt uscate până capătă o culoare închisă și o textură zbârcită. Este unul dintre cele mai răspândite condimente la nivel mondial, adăugat în preparate pentru aroma sa distinctă și ușor picantă. Piperul are capacitatea de a accentua aromele altor ingrediente fără a le acoperi, ceea ce îl face potrivit pentru o gamă largă de rețete. Pe lângă utilizările culinare, piperul este cunoscut și pentru proprietățile sale digestive și antioxidante. Se găsește sub diverse forme: boabe întregi, măcinat grosier sau fin, și chiar infuzat în uleiuri sau alte preparate. Aroma intensă se păstrează cel mai bine dacă este măcinat proaspăt, chiar înainte de folosire, ceea ce îl face un favorit al bucătarilor profesioniști.",
+  "rating": 5
+  },
+  {
+    "id": 13,
+    "name": "Mălai",
+    "category": "Others",
+    "price": "3 lei/1kg",
+    "imageUrl": "https://i0.wp.com/minuneanaturii.ro/blog/wp-content/uploads/2018/05/faina-de-porumb.jpg?fit=975%2C649&ssl=1",
+    "description": "Mălaiul este un produs obținut prin măcinarea boabelor de porumb, cu o textură specifică ce variază de la fin la grosier. Este un aliment de bază în multe culturi, dar ocupă un loc special în bucătăria românească, fiind ingredientul principal pentru mămăligă. Pe lângă utilizarea sa tradițională, mălaiul este folosit și ca înveliș crocant pentru preparatele prăjite sau la copt, datorită capacității sale de a forma o crustă aurie. Bogat în carbohidrați și sărac în gluten, mălaiul este adesea preferat în dietele fără gluten. De asemenea, este o sursă bună de fibre și poate contribui la o digestie sănătoasă. Mălaiul se păstrează bine în condiții uscate și răcoroase, fiind versatil și ușor de integrat în diverse tipuri de rețete, de la cele tradiționale la cele moderne.",
+    "rating": 5
+  },
+  {
+    "id": 14,
+    "name": "Unt",
+    "category": "Dairy",
+    "price": "14 lei/200g",
+    "imageUrl": "https://cdn.freshful.ro/media/cache/sylius_shop_product_original/7a/78/eec276fd80fa15cd49dcb37fdaaf.jpg",
+    "description": "Untul este un produs lactat obținut prin agitarea smântânii până când grăsimea se separă de zer. Este utilizat atât pentru gătit, cât și ca adaos pentru gust, oferind o textură catifelată și o aromă bogată preparatelor. Untul este un ingredient de bază în multe bucătării din lume, fiind apreciat pentru versatilitatea sa — de la prăjituri și sosuri, la rumenirea legumelor și a cărnii. Din punct de vedere nutrițional, untul este o sursă de grăsimi saturate, vitamine liposolubile (precum A, D, E și K) și acizi grași esențiali. Poate fi găsit în variante cu sau fără sare, dulce sau fermentat, iar alegerea tipului potrivit poate influența subtil gustul final al preparatelor. Untul de calitate are o culoare galben-palid uniformă și o consistență fermă, dar ușor tartinabilă la temperatura camerei.",
+    "rating": 5
+  },
+  {
+    "id": 15,
+    "name": "Pătrunjel verde",
+    "category": "Verdețuri",
+    "price": "2 lei/legătură",
+    "imageUrl": "https://mediacdn.libertatea.ro/unsafe/1260x708/smart/filters:format(webp):contrast(8):quality(75)/https://static4.libertatea.ro/wp-content/uploads/2020/05/patrunjelul-beneficii-si-proprietati.jpg",
+    "description": "Pătrunjelul este o plantă aromatică populară în bucătăriile europene, mediteraneene și orientale, apreciată pentru frunzele sale verzi, plate sau crețe, care adaugă prospețime și o aromă ușor piperată. Este adesea folosit atât crud, pentru decor și aromatizare, cât și gătit, în supe, sosuri și tocănițe. Pătrunjelul aduce un echilibru de gust în farfurie și intensifică aromele celorlalte ingrediente. Dincolo de rolul său culinar, pătrunjelul este o sursă bogată de vitamina C, vitamina K și fier. Are proprietăți antioxidante și poate susține sănătatea sistemului imunitar și digestiv. Pentru a-și păstra aroma și nutrienții, pătrunjelul este adesea adăugat la finalul preparării termice sau presărat direct peste preparate înainte de servire.",
+    "rating": 4
+  }
 ]
