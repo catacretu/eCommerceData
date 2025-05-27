@@ -37,7 +37,7 @@
   },
   {
     "id": 5,
-    "name": "Branza Maturata",
+    "name": "Branza",
     "category": "Dairy",
     "price": "25 lei/300g",
     "imageUrl": "https://s1.ziareromania.ro/?mmid=bc0a75689e6607d091",
@@ -109,7 +109,7 @@
   },
   {
     "id": 13,
-    "name": "Mălai",
+    "name": "Malai",
     "category": "Others",
     "price": "3 lei/1kg",
     "imageUrl": "https://i0.wp.com/minuneanaturii.ro/blog/wp-content/uploads/2018/05/faina-de-porumb.jpg?fit=975%2C649&ssl=1",
@@ -127,11 +127,29 @@
   },
   {
     "id": 15,
-    "name": "Pătrunjel",
-    "category": "Verdețuri",
+    "name": "Patrunjel",
+    "category": "Others",
     "price": "2 lei/legătură",
     "imageUrl": "https://mediacdn.libertatea.ro/unsafe/1260x708/smart/filters:format(webp):contrast(8):quality(75)/https://static4.libertatea.ro/wp-content/uploads/2020/05/patrunjelul-beneficii-si-proprietati.jpg",
     "description": "Pătrunjelul este o plantă aromatică populară în bucătăriile europene, mediteraneene și orientale, apreciată pentru frunzele sale verzi, plate sau crețe, care adaugă prospețime și o aromă ușor piperată. Este adesea folosit atât crud, pentru decor și aromatizare, cât și gătit, în supe, sosuri și tocănițe. Pătrunjelul aduce un echilibru de gust în farfurie și intensifică aromele celorlalte ingrediente. Dincolo de rolul său culinar, pătrunjelul este o sursă bogată de vitamina C, vitamina K și fier. Are proprietăți antioxidante și poate susține sănătatea sistemului imunitar și digestiv. Pentru a-și păstra aroma și nutrienții, pătrunjelul este adesea adăugat la finalul preparării termice sau presărat direct peste preparate înainte de servire.",
     "rating": 4
+  },
+  {
+  "id": 16,
+  "name": "Ouă",
+  "category": "Others",
+  "price": "1 leu/buc",
+  "imageUrl": "https://agri.shop/wp-content/uploads/2020/01/beneficii-consum-de-oua_534225985-compressor.jpg",
+  "description": "Ouăle sunt un aliment de bază, versatil și nutritiv, folosit într-o varietate largă de preparate culinare. Sunt bogate în proteine de înaltă calitate, conțin grăsimi sănătoase, vitamine esențiale precum B12, D și A, și minerale importante precum seleniul și colina. Ouăle pot fi gătite în multe moduri – fierte, prăjite, poșate sau omletă – și sunt frecvent utilizate ca ingredient de legătură sau agent de creștere în aluaturi și deserturi. Sunt apreciate pentru aportul lor nutritiv și capacitatea de a adăuga consistență, gust și culoare preparatelor culinare.",
+  "rating": 5
+  },
+  {
+  "id": 17,
+  "name": "Pastă de roșii",
+  "category": "Vegetables",
+  "price": "10 lei/700g",
+  "imageUrl": "https://gomagcdn.ro/domains2/supermercato.ro/files/product/medium/pasta-rosii-mutti-cu-busuioc-700g-2631-3720.jpg",
+  "description": "Pasta de roșii sau pasata este un sos concentrat obținut din roșii coapte, pasate și uneori gătite ușor pentru a-și intensifica aroma. Este un ingredient de bază în numeroase rețete italiene și internaționale, de la paste și tocănițe până la pizza și sosuri pentru carne. Oferă un gust bogat, ușor dulce-acrișor, fiind un excelent potențiator de aromă natural.",
+  "rating": 4
   }
 ]
