@@ -28,7 +28,7 @@
   }, 
   {
     "id": 4,
-    "name": "Pastrav proaspat",
+    "name": "Pastrav",
     "category": "Meat",
     "price": "32 lei/kg",
     "imageUrl": "https://nodverde.ro/wp-content/uploads/2019/04/Pastravi-Bologa-1.jpg",
@@ -100,7 +100,7 @@
   },
   {
   "id": 12,
-  "name": "Piper negru boabe",
+  "name": "Piper",
   "category": "Others",
   "price": "20 lei/50g",
   "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ8n-tUlhjhHk1qCjL_CVOGTP72nbihU3hplw&s",
@@ -127,7 +127,7 @@
   },
   {
     "id": 15,
-    "name": "Pătrunjel verde",
+    "name": "Pătrunjel",
     "category": "Verdețuri",
     "price": "2 lei/legătură",
     "imageUrl": "https://mediacdn.libertatea.ro/unsafe/1260x708/smart/filters:format(webp):contrast(8):quality(75)/https://static4.libertatea.ro/wp-content/uploads/2020/05/patrunjelul-beneficii-si-proprietati.jpg",
