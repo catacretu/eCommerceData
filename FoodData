@@ -151,5 +151,14 @@
   "imageUrl": "https://gomagcdn.ro/domains2/supermercato.ro/files/product/medium/pasta-rosii-mutti-cu-busuioc-700g-2631-3720.jpg",
   "description": "Pasta de roșii sau pasata este un sos concentrat obținut din roșii coapte, pasate și uneori gătite ușor pentru a-și intensifica aroma. Este un ingredient de bază în numeroase rețete italiene și internaționale, de la paste și tocănițe până la pizza și sosuri pentru carne. Oferă un gust bogat, ușor dulce-acrișor, fiind un excelent potențiator de aromă natural.",
   "rating": 4
+  },
+  {
+  "id": 18,
+  "name": "Smantana",
+  "category": "Dairy",
+  "price": "8 lei/200g",
+  "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTE1g25zbYEcPFr7nF0c-Dm3yug08b4_P9trg&s",
+  "description": "Smantana este un produs lactat obtinut prin fermentarea sau separarea stratului gras al laptelui. Este utilizata atat ca ingredient in preparate dulci si sarate, cat si ca adaos cremos la ciorbe, sosuri sau deserturi. Smantana adauga finete si echilibru gustativ, avand o textura catifelata si un gust usor acrisor. In bucataria romaneasca, smantana este esentiala pentru retete traditionale precum sarmalele, ciorbele sau papanasii. Din punct de vedere nutritional, smantana este o sursa de grasimi, proteine si vitamine liposolubile (A, D, E, K). Exista variante cu continut redus de grasime sau mai consistente, in functie de preferinte si de tipul preparatului.",
+  "rating": 5
   }
 ]
